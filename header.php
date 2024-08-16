@@ -33,7 +33,7 @@
     
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #FFCC99;">
       <div class="container">
-        <a href="header.php" class="navbar-brand" style="color:#3F3636;">List TO DO</a>
+        <a href="dashboard.php" class="navbar-brand" style="color:#3F3636;">List TO DO</a>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
